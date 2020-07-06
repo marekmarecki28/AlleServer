@@ -14,8 +14,8 @@ public class Authentication {
 
 	public static String getToken() throws IOException, JSONException {
 		String authUrl = "https://allegro.pl.allegrosandbox.pl/auth/oauth/token?grant_type=client_credentials";
-		String clientId = "12347993ab074528baa9c297ac209a4d";
-		String clientSecret = "8Lhj2lrTyCANktd5clNexPhd1sXaKJ9Nlih9LqnEBNq9pF6HWVjoFK5B6aOnrlD8";
+		String clientId = "...";
+		String clientSecret = "...";
 
 		
 		//Standard Java way
